@@ -9,6 +9,8 @@ What did I learn about my habits (do I freeze when I start typing code, etc.)?
 "When I'm writinig code i tend to think in advance on the solution which could be worked on. It would be better if i broke down problems more and depicted them more and drew outlines or diagrams. \n
 I also do look stuff up when writing code when i don't know how to do soemtihng or i dont fully know how something works then i write a comment in the code to explain what i picked up."
 
+
+# PlayBook
 Write one “semantic” or new trick you discovered (for your CS Playbook).
 "I learned how the [] operator works, it has three inputs that it takes ([_,_,_]) the first is the start index and then the second is the end index so if i wanted to get the second and third letter i would
 put 1,2 now i do need to see if thats inclusive but that could be fiqured out by little tests. Then the third spot is for the pace or steps it will take. so i could have it go for every two letters or have it go backwards
